@@ -28423,7 +28423,11 @@ body.tmp-white-version .logo img.logo-white {
 }
 
 .resume-box .resume-widget .resume-single {
-    min-height: 494px;
+    min-height: 408px;
+}
+
+.resume-box.resume-box2 .resume-widget .resume-single {
+    min-height: 512px;
 }
 
 .tmp-footer-area.footer-style-4.tmp-section-gap {
